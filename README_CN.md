@@ -132,4 +132,4 @@ pnpm build
 
 ▶ [观看 8 秒真实 API 演示](public/hy3-research-canvas-demo.webm)
 
-该视频依次载入内置示例、选择分析设置、通过真实 MaaS 端点流式生成报告，并将界面切换为中文。可使用 [`public/demo-material.md`](public/demo-material.md) 和 `pnpm demo:record` 重新录制。
+该视频依次载入内置示例、选择分析设置、通过真实 MaaS 端点流式生成报告，并将界面切换为中文。
