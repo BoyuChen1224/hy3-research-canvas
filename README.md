@@ -132,4 +132,4 @@ Validation, prompt construction, upstream error mapping, and file reading are se
 
 ▶ [Watch the 8-second real API demo](public/hy3-research-canvas-demo.webm)
 
-The recording loads the bundled sample, chooses analysis settings, generates a streamed report through the real MaaS endpoint, and switches the interface to Chinese. Use [`public/demo-material.md`](public/demo-material.md) and `pnpm demo:record` to record it again.
+The recording loads the bundled sample, chooses analysis settings, generates a streamed report through the real MaaS endpoint, and switches the interface to Chinese.
